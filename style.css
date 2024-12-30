@@ -45,7 +45,7 @@
 /* Main Content Syling */
 .top-container{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     gap: 24px;
 }
@@ -65,6 +65,7 @@
 .sub-text {
     font-size: 18px;
     color: #e5e7eb;
+    margin-bottom: 10px;
 }
 
 button {
@@ -81,6 +82,7 @@ button {
 img {
     width: 200px;
     height: auto;
+    border-radius: 20px;
 }
 
 .info-container {
