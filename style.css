@@ -45,7 +45,7 @@
 /* Main Content Syling */
 .top-container{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     align-items: center;
     gap: 24px;
 }
