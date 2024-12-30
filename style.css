@@ -99,3 +99,23 @@ img {
     align-items: center;
     gap: 50px;
 }
+
+/* Quote Container */
+.quote-container {
+    background-color: #e5e7eb;
+    height: 200px;
+    /* text-align: center; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    width: 700px;
+}
+
+/* Bottom Container */
