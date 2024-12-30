@@ -146,3 +146,10 @@ img {
 }
 
 /* Footer Container */
+.footer {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    padding: 16px 0;
+}
